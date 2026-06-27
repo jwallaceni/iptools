@@ -1,15 +1,17 @@
+
 # iptools
 
 ## FOR USE ON AUTHORISED PENETRATION TESTS ONLY
 
-A collection of Python scripts used as tools for gathering info on IP addresses
+A Python tool for gathering info on IP addresses or performing network sweeps to find hosts that are up. Automatically detectes Cloud providers. If there is a valid Microsoft Online account provided it will perform checks to see if MFA is in use.
 
 scanner.py
 A tool used for identifying hosts that are up in a CIDR notated IP range, useful for pentests with large scope
 
 
 
-https://github.com/user-attachments/assets/1f2c1455-c519-4749-8e28-75aed93b7f8e
+https://github.com/user-attachments/assets/7b6350f0-ca50-4eaf-9a82-8afd1e2c638e
+
 
 
 <img width="1919" height="970" alt="screenshot1" src="https://github.com/user-attachments/assets/7cbeb1a4-2bdf-4b6c-a06a-2558ca89040b" />
